@@ -4,7 +4,7 @@
 ## Objective: 
 To establish a consistent daily learning routine through computational fundamentals and language lessons 
 
-## Rules:
+## Rules (everyday):
 * Solve atleast 1 leetcode problem
 * Complete atleast 1 german lesson on duolingo
 
