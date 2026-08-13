@@ -1,4 +1,4 @@
-# Ein-hundertTageDes
+# EinHundertTage
 (100 Days Challenge)
 
 ## Objective: 
