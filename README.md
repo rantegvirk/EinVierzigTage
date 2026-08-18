@@ -2,7 +2,7 @@
 (100 Days Challenge)
 
 ## Objective: 
-To establish a consistent daily learning routine through computational fundamentals and language lessons 
+To establish a consistent daily learning routine through learning computational fundamentals and language lessons 
 
 ## Rules (everyday):
 * Solve atleast 1 leetcode problem
