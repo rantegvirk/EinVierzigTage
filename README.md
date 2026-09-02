@@ -5,7 +5,7 @@
 To establish a consistent daily learning routine through learning computational fundamentals and language lessons 
 
 ## Rules (everyday):
-* Solve atleast 1 leetcode problem
+* Solve atleast 1 coding problem (any platform)
 * Complete atleast 1 german lesson on duolingo
 
 ## Motive: 
