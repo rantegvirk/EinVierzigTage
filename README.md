@@ -1,9 +1,10 @@
-# EinVierzigTage (Language)
-<br>
+# Die EinUndDreißig Tage (Language)
+The 31 Days
+---
 
 ### Objective:
 * Revive the good old habit of (learning & practicing) a specific new language daily using Duolingo lessons as a hobby.
-* Documenting it for 40 days here to learn github practically by making daily commits, organising progress & being familiar with features.
+* Documenting it for 31 days here to learn github practically by making daily commits, organising progress & being familiar with features.
 * After challenge ends, maintain the habit & keep practising regularly 
 
 ### Rules:
